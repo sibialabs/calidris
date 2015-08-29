@@ -6,5 +6,5 @@
 
 ### Contributors
 
-* Jason DeShazer - deshazer.jad@gmail.com
-* Joel Ferrier - joel@ferrier.io
+* [Jason DeShazer](https://github.com/deshazerj) - deshazer.jad@gmail.com
+* [Joel Ferrier](https://github.com/joelferrier) - joel@ferrier.io
